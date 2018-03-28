@@ -59,3 +59,7 @@ dkms.conf
 *#
 DEAD*
 
+# output
+disc/*
+*.d64
+
