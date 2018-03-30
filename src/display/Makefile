@@ -1,4 +1,3 @@
-all:	vdc.o
+all:	display.o
 
-%.o:	%.s
-	64tass $< -o $@
+display.o:	vdc.s
