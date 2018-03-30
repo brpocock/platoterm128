@@ -1,0 +1,128 @@
+PLATO terminal keyboard (original):
+
+Fourth row = Micro, Shift
+Third row = Micro
+Second row = Shift
+Bottom row = normal
+
+
+≤ ≥ { } #           ≡
+〖 〗       @ ➤       ≠
+< > [ ] $ % _ ' * ( )            Term
+0 1 2 3 4 5 6 7 8 9 =  Super Sub Ans    Copy
+
+⁂       ⁂ ↑   ⁂       |
+        ` ω ´ ρ θ   ¨   ° π
+CR   Σ  ↖ ↑ ↗                       Font        (Access)
+Tab  +  q w e r t y u i o p  Erase  Micro  Help  □
+
+     ←   →
+     α σ δ           λ  ~
+  Δ  ←   →
+⇐ -  a s d f g h j k l  ;  NEXT  Edit Back Lab
+
+  ✕        ↓ ©
+  ⋅         ^ ¸   β ~ μ ↕   \
+          ↙ ↓ ↘         " ! ?
+÷ × SHIFT z x c v b n m , . / SHIFT Data Stop
+
+
+⁂ Special:
+Micro,CR = leftwards-Tab
+Micro,Sh+Q = RTL writing direction mark
+Micro,Sh+R = LTR writing direction mark
+
+Micro+ q, e, u, n = ` ´ ¨ ~ are backspacing modifiers
+
+
+
+
+
+C=128 keyboard (natively):
+
+
+Esc  Tab  Alt  CAPS     Help   Line  40/80  No       ⊕↑ ↓ ← →   f1 f3 f5 f7
+               Lock            Feed  Dispy  Scroll             (f2 f4 f6 f8)
+
+  ! " # $ % & ' ( )         Clr  Inst
+← 1 2 3 4 5 6 7 8 9 0 + - £ Home Del                7 8 9 +
+
+
+Control q w e r t y u i o p @ * ↑ Restore           4 5 6 -
+
+Run  Shift                    [ ]
+Stop Lock   a s d f g h j k l : ; = Return          1 2 3 Enter
+
+                       < > ?       ⇑ ⇐
+C= Shift z x c v b n m , . / Shift ⇓ ⇒              0   .
+
+
+
+(Top-row arrow keys or keypad keys indicated with ⊕)
+
+
+
+
+
+
+Punctuation mapping:
+
+PLATO  C=128
+⇐      ←
+÷      ⊕-   or Sh+@
+×      ⊕+   or Sh+*
+_      £
+
+
+Function key mapping:
+
+PLATO   C=128
+
+q↖                    Sh+⊕7
+w↑      Sh+CRSR⇓⇑  or Sh+⊕8
+e↗                    Sh+⊕9
+
+a←      Sh+CRSR⇐⇒  or Sh+⊕4
+
+d→      CRSR⇐⇒     or Sh+⊕6
+
+z↙                    Sh+⊕1
+x↓      CRSR⇓⇑     or Sh+⊕2
+c↘                    Sh+⊕3
+
+Super   ⊕↑
+Sub     ⊕↓
+Ans     f7
+Copy    f5
+
+Tab     Tab
+Erase   Del
+Micro   C=
+Help    Help
+□       f1
+
+Next    Return or ⊕→ or Enter
+Edit    Home
+Back    ⊕←
+Lab     Alt
+
+Data    f3
+Stop    Stop
+
+Sh+Tab = CR can be entered also by typing Line Feed.
+
+
+The RESTORE key will be used for terminal controls.
+
+Shift Lock is mechanically identical to the left Shift key and does what
+is expected.
+
+CAPS Lock  is translated to a  Shifted version of only  the letter keys,
+leaving the other keys unshifted.
+
+The numeric  keypad, unshifted, enters digits  indistiguishably from the
+number row on the typewriter section, but  the + and - keys are remapped
+as  × and  ÷  instead. Enter  is indistinguishable  from  Return or  the
+top-row → key (all  send NEXT). The shifted digits 1, 2, 3,  4, 6, 7, 8,
+and   9  send   letters   to   mimic  the   arrow   placements  on   the
+typewriter section.
